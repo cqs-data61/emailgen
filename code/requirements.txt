@@ -1,0 +1,10 @@
+python=3.8.6
+numpy=1.19.2
+pytorch=1.7.1
+torchvision==0.8.2
+scikit-learn=0.24.0
+scipy=1.6.0
+transformers=3.0.2
+spacy=2.3.2
+pandas=1.2.0
+statsmodels=0.12.1
